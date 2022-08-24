@@ -1,7 +1,7 @@
 @file:Suppress("unused")
 
 object MyApp {
-    const val appId = "dev.jahir.frames.app"
-    const val version = 350
-    const val versionName = "3.5.0"
+    const val appId = "com.dark.papers"
+    const val version = 100
+    const val versionName = "1.0.0"
 }

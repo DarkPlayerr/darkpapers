@@ -1,6 +1,7 @@
-package dev.jahir.frames.app
+package com.dark.papers
 
 import com.github.javiersantos.piracychecker.PiracyChecker
+import com.dark.papers.R
 import dev.jahir.frames.ui.activities.FramesActivity
 
 class MainActivity : FramesActivity() {

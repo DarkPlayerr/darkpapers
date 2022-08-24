@@ -1,4 +1,4 @@
-package dev.jahir.frames.app
+package com.dark.papers
 
 import dev.jahir.frames.muzei.FramesArtProvider
 
