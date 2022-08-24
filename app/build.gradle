@@ -23,7 +23,7 @@ apply plugin: 'com.google.devtools.ksp'
 android {
     applicationVariants.all { variant ->
         variant.outputs.all { output ->
-            outputFileName = defaultConfig.applicationId + "-v${variant.versionName}-${variant.name}.apk"
+            outputFileName = "DarkPapers-${variant.versionName}-${variant.name}.apk"
         }
     }
 
