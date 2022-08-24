@@ -10,11 +10,11 @@ class MainActivity : FramesActivity() {
      * These things here have the default values. You can delete the ones you don't want to change
      * and/or modify the ones you want to.
      */
-    override val billingEnabled = true
+    override val billingEnabled = false
 
-    override fun amazonInstallsEnabled(): Boolean = false
-    override fun checkLPF(): Boolean = true
-    override fun checkStores(): Boolean = true
+    override fun amazonInstallsEnabled(): Boolean = true
+    override fun checkLPF(): Boolean = false
+    override fun checkStores(): Boolean = false
 
     /**
      * This is your app's license key. Get yours on Google Play Dev Console.
@@ -30,7 +30,7 @@ class MainActivity : FramesActivity() {
      */
     override fun getLicenseChecker(): PiracyChecker? {
         destroyChecker() // Important
-        return if (BuildConfig.DEBUG) null else super.getLicenseChecker()
+        return null
     }
 
     override fun defaultTheme(): Int = R.style.MyApp_Default

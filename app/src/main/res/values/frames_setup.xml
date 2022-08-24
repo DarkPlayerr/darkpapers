@@ -12,13 +12,13 @@
     <bool name="allow_immediate_downloads">true</bool>
 
     <!-- Choose whether you want users to download wallpapers using Wi-Fi only by default -->
-    <bool name="downloads_on_wifi_only_enabled_by_default">true</bool>
+    <bool name="downloads_on_wifi_only_enabled_by_default">false</bool>
 
     <!-- Choose whether you want colored tiles by default -->
-    <bool name="enable_colored_tiles">false</bool>
+    <bool name="enable_colored_tiles">true</bool>
 
     <!-- Choose whether you want filled collection preview by default -->
-    <bool name="enable_filled_collection_preview">false</bool>
+    <bool name="enable_filled_collection_preview">true</bool>
 
     <!-- Choose whether you want to show wallpaper palette colors or not -->
     <bool name="show_wallpaper_palette_details">true</bool>
