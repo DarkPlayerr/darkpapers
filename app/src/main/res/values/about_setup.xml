@@ -9,14 +9,14 @@
     </string-array>
 
     <string-array name="credits_descriptions">
-        <item>I still have no clue what I'm doing.</item>
+        <item>I still have no clue what I\'m doing</item>
     </string-array>
 
     <string-array name="credits_buttons">
-        <item>GitHub|Website|Telegram Chat|Twitter</item>
+        <item>GitHub|Website|Twitter</item>
     </string-array>
 
     <string-array name="credits_links">
-        <item>https://github.com/DarkPlayerr|https://darkplayer.me|https://t.me/dvrkchat|https://twitter.com/dvrkplayer</item>
+        <item>https://github.com/DarkPlayerr|https://darkplayer.me|https://twitter.com/dvrkplayer</item>
     </string-array>
 </resources>
