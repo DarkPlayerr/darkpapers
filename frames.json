@@ -1,0 +1,58 @@
+[
+    {
+       "name":"Shapes Dark",
+       "author":"DarkPlayer",
+       "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/shapes%20(dark).png",
+       "dimensions":"2160x4800",
+       "collections":"shapes"
+    },
+    {
+       "name":"Shapes Light",
+       "author":"DarkPlayer",
+       "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/shapes%20(light).png",
+       "dimensions":"2160x4800",
+       "collections":"shapes"
+    },
+    {
+       "name":"Blobs Dark",
+       "author":"DarkPlayer",
+       "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/blobs%20(dark).png",
+       "dimensions":"2160x4800",
+       "collections":"abstract"
+    },
+    {
+       "name":"Blobs Light",
+       "author":"DarkPlayer",
+       "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/blobs%20(light).png",
+       "dimensions":"2160x4800",
+       "collections":"abstract"
+    },
+    {
+       "name":"Earth",
+       "author":"DarkPlayer",
+       "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/earth.png",
+       "dimensions":"2160x4800",
+       "collections":"abstract"
+    },
+    {
+       "name":"Moon",
+       "author":"DarkPlayer",
+       "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/moon.png",
+       "dimensions":"2160x4800",
+       "collections":"abstract"
+    },
+    {
+       "name":"Ice Cream (Dark)",
+       "author":"DarkPlayer",
+       "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/ice%20cream%20(dark).png",
+       "dimensions":"2160x4800",
+       "collections":"abstract"
+    },
+    {
+       "name":"Ice Cream (Light)",
+       "author":"DarkPlayer",
+       "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/ice%20cream%20(light).png",
+       "dimensions":"2160x4800",
+       "collections":"abstract"
+    }
+ ]
