@@ -18,41 +18,104 @@
        "author":"DarkPlayer",
        "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/blobs%20(dark).png",
        "dimensions":"2160x4800",
-       "collections":"abstract"
+       "collections":"blobs"
     },
     {
        "name":"Blobs Light",
        "author":"DarkPlayer",
        "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/blobs%20(light).png",
        "dimensions":"2160x4800",
-       "collections":"abstract"
+       "collections":"blobs"
     },
     {
        "name":"Earth",
        "author":"DarkPlayer",
        "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/earth.png",
        "dimensions":"2160x4800",
-       "collections":"abstract"
+       "collections":"landscapes"
     },
     {
        "name":"Moon",
        "author":"DarkPlayer",
        "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/moon.png",
        "dimensions":"2160x4800",
-       "collections":"abstract"
+       "collections":"landscapes"
     },
     {
        "name":"Ice Cream (Dark)",
        "author":"DarkPlayer",
        "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/ice%20cream%20(dark).png",
        "dimensions":"2160x4800",
-       "collections":"abstract"
+       "collections":"doodles"
     },
     {
        "name":"Ice Cream (Light)",
        "author":"DarkPlayer",
        "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/ice%20cream%20(light).png",
        "dimensions":"2160x4800",
-       "collections":"abstract"
-    }
+       "collections":"doodles"
+    },
+    {
+      "name":"Darkness",
+      "author":"DarkPlayer",
+      "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/darkness.png",
+      "dimensions":"2160x4800",
+      "collections":"landscapes"
+   },
+   {
+      "name":"Dusk",
+      "author":"DarkPlayer",
+      "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/dusk.png",
+      "dimensions":"2160x4800",
+      "collections":"landscapes"
+   },
+    {
+      "name":"Dawn",
+      "author":"DarkPlayer",
+      "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/dawn.png",
+      "dimensions":"2160x4800",
+      "collections":"landscapes"
+   },
+   {
+      "name":"Island (Dark)",
+      "author":"DarkPlayer",
+      "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/island%20(dark).png",
+      "dimensions":"2160x4800",
+      "collections":"shapes"
+   },
+   {
+      "name":"Island (Light)",
+      "author":"DarkPlayer",
+      "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/island%20(light).png",
+      "dimensions":"2160x4800",
+      "collections":"shapes"
+   },
+   {
+      "name":"Waves (Dark)",
+      "author":"DarkPlayer",
+      "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/waves%20(dark).png",
+      "dimensions":"2160x4800",
+      "collections":"blobs"
+   },
+   {
+      "name":"Waves (Light)",
+      "author":"DarkPlayer",
+      "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/waves%20(light).png",
+      "dimensions":"2160x4800",
+      "collections":"blobs"
+   },
+   {
+      "name":"Sunset Waves (Dark)",
+      "author":"DarkPlayer",
+      "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/sunset%20waves%20(dark).png",
+      "dimensions":"2160x4800",
+      "collections":"blobs"
+   },
+   {
+      "name":"Sunset Waves (Light)",
+      "author":"DarkPlayer",
+      "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/sunset%20waves%20(light).png",
+      "dimensions":"2160x4800",
+      "collections":"blobs"
+   }
  ]
