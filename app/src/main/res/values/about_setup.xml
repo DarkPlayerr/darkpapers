@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation,MissingTranslation">
     <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
-        <item>https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/DarkPlayer%20logo.png</item>
+        <item>https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/art/DarkPlayer%20logo.png</item>
     </string-array>
 
     <string-array name="credits_titles">
