@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <version title="v1.1.1" />
+    <item text="Added 8 new wallpapers including amoled variants for existing wallpapers" />
+
     <version title="v1.1.0" />
     <item text="Added 9 new wallpapers" />
     <item text="New wallpaper categories" />
