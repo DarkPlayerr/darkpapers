@@ -13,13 +13,18 @@
 - Categories and Favorites sections
 - Material Design dashboard
 
-## App Screenshots
-<img src="https://github.com/DarkPlayerr/darkpapers/raw/darkpapers/art/screenshot1.png" height="350"/>
-<img src="https://github.com/DarkPlayerr/darkpapers/raw/darkpapers/art/screenshot2.png" height="350"/>
-<img src="https://github.com/DarkPlayerr/darkpapers/raw/darkpapers/art/screenshot3.png" height="350"/>
-<img src="https://github.com/DarkPlayerr/darkpapers/raw/darkpapers/art/screenshot4.png" height="350"/>
-<img src="https://github.com/DarkPlayerr/darkpapers/raw/darkpapers/art/screenshot5.png" height="350"/>
-<img src="https://github.com/DarkPlayerr/darkpapers/raw/darkpapers/art/screenshot6.png" height="350"/>
+## Preview
+<p align="left">
+<img src="https://github.com/DarkPlayerr/darkpapers/raw/darkpapers/art/screenshot1.png" height="400"/>
+<img src="https://github.com/DarkPlayerr/darkpapers/raw/darkpapers/art/screenshot2.png" height="400"/>
+<img src="https://github.com/DarkPlayerr/darkpapers/raw/darkpapers/art/screenshot3.png" height="400"/>
+<img src="https://github.com/DarkPlayerr/darkpapers/raw/darkpapers/art/screenshot4.png" height="400"/>
+</p>
+
+<p align="left">
+<img src="https://github.com/DarkPlayerr/darkpapers/raw/darkpapers/art/screenshot5.png" height="400"/>
+<img src="https://github.com/DarkPlayerr/darkpapers/raw/darkpapers/art/screenshot6.png" height="400"/>
+</p>
 
 ## Wallpapers by
 ### [DarkPlayer](https://darkplayer.me/)
