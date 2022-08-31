@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <version title="v1.1.2" />
+    <item text="Added 5 new wallpapers including 2 in collaboration with tequilaOS" />
+
     <version title="v1.1.1" />
     <item text="Added 8 new wallpapers including amoled variants for existing wallpapers" />
 

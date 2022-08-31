@@ -173,5 +173,40 @@
       "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/towers%20(light).png",
       "dimensions":"2160x4800",
       "collections":"shapes"
+   },
+   {
+      "name":"Hello (Amoled)",
+      "author":"DarkPlayer",
+      "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/hello%20(amoled).png",
+      "dimensions":"2160x4800",
+      "collections":"doodles"
+   },
+   {
+      "name":"Hello (Dark)",
+      "author":"DarkPlayer",
+      "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/hello%20(dark).png",
+      "dimensions":"2160x4800",
+      "collections":"doodles"
+   },
+   {
+      "name":"Hello (Light)",
+      "author":"DarkPlayer",
+      "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/hello%20(light).png",
+      "dimensions":"2160x4800",
+      "collections":"doodles"
+   },
+   {
+      "name":"tequilaOS (Dark)",
+      "author":"DarkPlayer",
+      "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/tequilaOS%20(dark).png",
+      "dimensions":"2160x4800",
+      "collections":"doodles,tequilaOS"
+   },
+   {
+      "name":"tequilaOS (Light)",
+      "author":"DarkPlayer",
+      "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/tequilaOS%20(light).png",
+      "dimensions":"2160x4800",
+      "collections":"doodles,tequilaOS"
    }
  ]
