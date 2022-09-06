@@ -7,11 +7,18 @@
 [![Crowdin](https://badges.crowdin.net/Frames/localized.svg)](https://crowdin.com/project/Frames/invite)
 
 ## Features
-- Many wallpapers free to download
+- High resolution (4800x2160 20:9) wallpapers free to download
 - Amoled Black, Dark, Light & Material You (Android 12) themes
 - App can work offline
 - Categories and Favorites sections
 - Material Design dashboard
+
+## Download
+
+You can download the latest version on the Google Play Store or GitHub
+
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=com.dark.papers)
+[<img src="https://raw.githubusercontent.com/deckerst/common/main/assets/get-it-on-github.png" alt="Get it on GitHub" height="80">](https://github.com/DarkPlayerr/darkpapers/releases)
 
 ## Preview
 <p align="left">
