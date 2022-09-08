@@ -2,8 +2,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.dark.papers">
 
-    <!-- Permission required for donations. Remove it if you don't use it -->
+    <!-- Permission required for donations. Remove it if you don't use it
     <uses-permission android:name="com.android.vending.BILLING" />
+    -->
 
     <application
         android:name=".MyApplication"
