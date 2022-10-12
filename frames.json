@@ -215,5 +215,19 @@
       "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/GlitchyWaves.png",
       "dimensions":"2160x4560",
       "collections":"shapes"
+   },
+   {
+      "name":"Royale Black",
+      "author":"XelXen",
+      "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/RoyaleBlack.png",
+      "dimensions":"2160x4560",
+      "collections":"shapes"
+   },
+   {
+      "name":"Royale Red",
+      "author":"XelXen",
+      "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/RoyaleRed.png",
+      "dimensions":"2160x4560",
+      "collections":"shapes"
    }
  ]
