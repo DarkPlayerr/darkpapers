@@ -208,5 +208,19 @@
       "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/tequilaOS%20(light).png",
       "dimensions":"2160x4800",
       "collections":"doodles,tequilaOS"
+   },
+   {
+      "name":"Aurora Green",
+      "author":"Puffercat",
+      "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/aurora%20green.png",
+      "dimensions":"2160x4800",
+      "collections":"gradients"
+   },
+   {
+      "name":"Aurora Purple",
+      "author":"Puffercat",
+      "url":"https://raw.githubusercontent.com/DarkPlayerr/darkpapers/darkpapers/img/aurora%20purple.png",
+      "dimensions":"2160x4800",
+      "collections":"gradients"
    }
  ]
