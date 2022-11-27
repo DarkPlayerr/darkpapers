@@ -39,6 +39,10 @@ You can download the latest version on the Google Play Store or GitHub
 [![Twitter](https://img.shields.io/twitter/follow/dvrkplayer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=dvrkplayer)
 [![Telegram](https://img.shields.io/static/v1?label=&message=@darkplayer&logo=telegram&logoColor=blue&color=gray&style=for-the-badge)](https://t.me/dvrkplayer)
 
+## Wallpaper source
+
+The wallpapers are open source as well, you can play around with the vectors [right here](https://www.figma.com/community/file/1178728547929872327)!
+
 ## App based on [Frames](https://github.com/jahirfiquitiva/Frames) by
 
 ### [Jahir Fiquitiva](https://jahir.dev/)
